@@ -46,3 +46,7 @@ Anda perlu mengirim transaksi ke kontrak ZenChain untuk mengikat kunci sesi Anda
 ## Support Airdrop Node
 
 https://trakteer.id/AirdropNode/tip
+
+## Join Airdrop Node:  
+
+[Grup Telegram AirdropNode](https://t.me/airdrop_node)
