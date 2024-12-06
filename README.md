@@ -44,6 +44,9 @@ Anda perlu mengirim transaksi ke kontrak ZenChain untuk mengikat kunci sesi Anda
 ## DONE
 
 ## Support Airdrop Node
+Evm wallet
+
+'0x59E997287C18A46a53269A4C599FBf2d2EB1DB31'
 
 https://trakteer.id/AirdropNode/tip
 
